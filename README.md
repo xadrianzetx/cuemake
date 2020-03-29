@@ -4,7 +4,7 @@
 
 ## options
 
-`-b`: .bin or .BIN PSX ROM (required).
+`-b`: .bin or .BIN PSX ROM (required).  
 `-o`: path to save generated .cue file. Saves into $PWD if not specified.
 
 ## usage
