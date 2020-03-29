@@ -1,4 +1,4 @@
-# cuemaker
+# cuemake
 
 .cue file generator for RetroPie .bin PSX ROMs
 
@@ -8,4 +8,4 @@
 `-o`: path to save generated .cue file. Saves into $PWD if not specified.
 
 ## usage
-run `chmod +x cuemaker.sh && mv cuemaker.sh cuemaker`. Copy to `home/$(whoami)/bin` to make `cuemaker` executable from any location.
+run `chmod +x cuemake.sh && mv cuemake.sh cuemake`. Copy to `home/$(whoami)/bin` to make `cuemake` executable from any location.
